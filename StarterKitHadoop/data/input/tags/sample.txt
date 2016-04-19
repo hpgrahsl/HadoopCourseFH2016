@@ -1,0 +1,100 @@
+http://hellasmultimedia.com/webimages	web	art	clipart	pictures	free	design	images
+http://animation-station.com	gifs	art	clipart	free	webdesign	animation	graphics	images	animated
+http://feebleminds-gifs.com	gifs	clipart	webdesign	animation	graphics	images	animated
+http://freebuttons.com	web	free	buttons	webdesign	html	design	graphics
+http://lifehacker.biz/articles/open-source-web-design-templates-tools	templates	web	themes	webdesign	design	opensource	tools
+http://wisdom-soft.com/products/screenhunter.htm	capture	utilities	free	freeware	screencapture	tools	software
+http://lifehacker.biz/articles/wallpapers	art	wallpaper	list	sites	free	desktop	wallpapers
+http://diylife.com/2007/08/22/diy-laser-long-distance-listening-device	laser	science	howto	surveillance	diy	audio	cool
+http://la-moncloa.es/NR/rdonlyres/79FF2885-8DFA-4348-8450-04610A9267F0/0/constitucion_ES.pdf	politics	derecho	spain	legal	spanish
+http://germazope.uni-trier.de/Projects/MWV/wbb	german	literature	terminology	history
+http://mediaevum.de	german	literature	language	history
+http://elastico.net/archives/005194.html	ebook	free	culture	copyfight	books	creative_commons
+http://prezi.com	freeware	presentation	tools	programs
+http://tezaurs.lv	dictionaries	terminology	english
+http://zeno.org/Literatur/W/Inhaltsverzeichnis	german	books	free	literature
+http://myjmk.com	german	dictionaries	community	forum	spanish
+http://canoo.net	german	dictionaries	grammar
+http://rinconcastellano.com	literature	books	free	spanish
+http://forvo.com	pronunciation	multilingual	language
+http://berlin63.blogspot.com	blog	culture	cinema
+http://diccionarios.com	portuguese	german	multilingual	dictionaries	french	spanish	english	italian
+http://exonario.blogspot.com	blog	culture	language
+http://dict.leo.org	forum	german	english	dictionaries	french	spanish	freeware	italian
+http://librosgratis.org	freeware	literature	books	free
+http://eumed.net/dices/index.htm	dictionaries	terminology	spanish
+https://www.getafreelancer.com	freelance	job	ads
+http://latviesi.com	news	portal	community
+http://loregalo.com	shop	freeware	ads	free
+http://translatorscafe.com	freelance	forum	community
+http://proz.com	freelance	forum	community
+http://eurotermbank.com	multilingual	dictionaries	terminology	english
+http://wordreference.com	forum	german	spanish	dictionaries	french	english	russian	italian
+http://bobvila.com/wwwboard/messages/274971.html	remote	howto	garage
+http://berniecode.com/blog/2007/03/08/how-to-debug-javascript-with-visual-web-developer-express	windows	webdev	visualstudio	tools
+http://googleblog.blogspot.com/2008/05/introduction-to-google-search-quality.html	search	google	pagerank
+http://xahlee.org/emacs/find_replace_inter.html	search	emacs	replace
+http://markphip.blogspot.com/2007/01/shelves-in-subversion.html	subversion	development	shelves
+http://jingproject.com	capture	collaboration	screencapture	software
+http://lifehacker.com/396881/turn-your-xbox-360-into-a-streaming-netflix-player	streaming	netflix	xbox360
+http://stickmanlabs.com/lightwindow/#howtouse	ajax	javascript	lightbox
+http://code.google.com/apis/gadgets/docs/legacy/dev_guide.html	api	google	igoogle
+http://nettuts.com/javascript-ajax/create-a-simple-intelligent-accordion-effect-using-prototype-and-scriptaculous	ajax	prototype	scriptaculous	tutorial	javascript
+http://rixstep.com/2/20040510,00.shtml	shortcuts	osx	mac	keyboard
+http://johndyer.name/post/2007/11/Yet-Another-Coverflow-using-Papervision.aspx	papervision3d	flash	coverflow
+http://code.google.com/apis/igoogle/docs/anatomy.html	development	google	igoogle
+http://blog.ifitcangowrong.com/open-source/linux/ubuntu/configure-the-hp-dv2000-for-ubuntu	linux	wifi	ubuntu
+http://code.google.com/apis/youtube/overview.html	api	google	youtube
+http://ipinfo.info/netrenderer	development	webdesign	testing	browser
+http://simplisticcomplexity.com/2006/08/13/apache-2-2-mod_proxy_balancer-mongrel-on-ubuntu-6-06	apache	mongrel	rails
+http://blog.codahale.com/2006/06/19/time-for-a-grown-up-server-rails-mongrel-apache-capistrano-and-you	development	rubyonrails	rails	apache	ruby	mongrel
+http://bloglines.com/blog/ThomasEEnebo?id=42	ruby	rubyonrails	jruby
+http://borngeek.com/firefox/toolbar-tutorial	xul	firefox	extension	toolbar
+http://rsizr.com	image	flash	photography	resize
+http://touchdev.net/wiki/Main_Page	touch	ipod	apple	hack
+http://microsoft.com/technet/scriptcenter/topics/vista/gadgets-pt1.mspx	gadgets	windows	vista	microsoft	scripting
+http://errtheblog.com/post/7708	ruby	rubyonrails	rails
+http://telegraph.rubyforge.org/Home.html	asterisk	voip	ruby	rubyonrails	rails
+http://adhearsion.com	ruby	asterisk	voip	rails	rubyonrails
+http://developer.amazonwebservices.com/connect/entry.jspa?externalID=846	amazon	api	ruby	rubyonrails	rails
+http://nanocr.eu/2007/07/03/iphone-without-att	hack	apple	iphone
+http://unroller.rubyforge.org	debugging	ruby	rubyonrails
+http://groups.google.com/group/Google-Maps-API/web/resources-non-google-geocoders	maps	api	geocoding
+http://rubyinside.com/3-fresh-presentations-from-railsconf-2007-502.html	capistrano	ruby	rubyonrails	rails
+http://googleresearch.blogspot.com/2006/12/google-research-picks-for-videos-of.html	google	video	videos	research
+http://developers.joyent.com	framework	opensource	rails	desktop
+http://www3.telus.net/lordfoul/pics/useful%20ubuntu%20links/useful%20unbuntu%20links.html	howto	opensource	linux
+http://blog.evanweaver.com/articles/2007/04/28/bleak_house	memory	ruby	rubyonrails	plugin
+http://commons.wikimedia.org/wiki/Crystal_Clear	freeware	graphics	clipart	icons
+http://scribd.com	pdf	sharing	documents	ebooks
+http://magicmodels.rubyforge.org/magic_multi_connections	activerecord	rubyonrails	database
+http://actionscript.org/resources/articles/207/1/Trace-and-debug-ActionScript-from-your-browser/Page1.html	development	debug	flash	actionscript
+http://weheartcode.com/2007/04/03/scraping-imdb-with-ruby-and-hpricot	ruby	scraping	programming	tutorial	rails
+http://rubyinside.com/ruby-and-c-integration-presentation-443.html	ruby	c	programming	extension
+http://errtheblog.com/post/2120	development	rails	rubyonrails	gem
+http://therailsway.com/2007/3/26/association-proxies-are-your-friend	development	activerecord	programming	rubyonrails	rails
+http://slash7.com/articles/2005/8/13/ajaxariffic-autocomplete-with-scriptaculous	rubyonrails	programming	rails	autocomplete	ajax	ui	tutorial
+http://developer.amazonwebservices.com/connect/entry.jspa?externalID=608&amp;categoryID=55	rubyonrails	s3	rails	amazon	ruby	tutorial
+http://earthcode.com/blog/2007/02/geokit_map_plugin.html	rubyonrails	plugin	ruby	programming	rails	geo	maps	geocode	geocoding
+http://thepochisuperstarmegashow.com/2006/06/02/ym4r-georuby-spatial-adapter-demo	rubyonrails	plugin	ruby	rails	maps	plugins	geo	tutorial
+http://research.microsoft.com/vibe/projects/FaThumb.aspx	mobile	search	data	microsoft	research
+http://research.microsoft.com/vibe/pubs/CHI2006-FaThumb.pdf	mobile	search	facets
+http://zooie.wordpress.com/2006/10/24/google-co-op-an-intro-some-insider-hacks	api	coop	google	tutorial	hacks
+http://useit.com/alertbox/20050509.html	web	search	ui	nielsen	usability
+http://acts-as-solr.rubyforge.org/acts_as_solr_up_and_running_in_10_minutes.html	lucene	solr	ruby
+http://lucene.apache.org/nutch	search	alexa	lucene	opensource	apache	java
+http://sentientdevelopments.blogspot.com/2007/01/must-know-terms-for-21st-century_11.html	culture	technology	words	science
+http://acts-as-solr.rubyforge.org	search	rubyonrails	plugin	ruby	rails	lucene	plugins	solr
+http://lucene.apache.org/solr	xml	web	search	java	lucene	opensource	apache	solr
+http://dev.lucene-ws.net/wiki/API	lucene	search	api	java	atom
+http://lipsum.com	ipsum	lorem	generator	web
+http://well-formed-data.net/archives/42/tag-maps-update	visualization	flash	data	tags	web
+http://bitworking.org/projects/atom/draft-ietf-atompub-protocol-06.html	xml	api	programming	rest	atom
+http://html.it/articoli/nifty/index.html	web	rounded	corners	javascript	webdesign	css
+http://lucene-ws.net	lucene	search	api	java	atom
+http://chir.ag/stuff/sand	fun	java	sand	flash	games
+http://captchator.com	captcha	rubyonrails	rails	spam
+http://fooplot.com	plot	canvas	graph	charts	ajax	data	math
+http://liquidrail.com/2006/12/29/charting-the-rails	visualization	rubyonrails	graphics	charts	rails	plugins	ruby
+http://errtheblog.com/post/26	irb	ruby	rubyonrails	rails
+http://slash7.com/articles/2006/12/21/secrets-of-the-rails-console-ninjas	activerecord	rails	ruby	rubyonrails	reference
